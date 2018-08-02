@@ -17,7 +17,7 @@
         <profile>
             <id>sonar</id>
             <properties>
-               <sonar.host.url>http://http://ec2-18-191-17-247.us-east-2.compute.amazonaws.com:9000</sonar.host.url>
+               <sonar.host.url>http://ec2-18-191-17-247.us-east-2.compute.amazonaws.com:9000</sonar.host.url>
             </properties>
         </profile>
     </profiles>
